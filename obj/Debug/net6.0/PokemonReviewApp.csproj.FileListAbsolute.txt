@@ -1,0 +1,267 @@
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.AssemblyReference.cache
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfoInputs.cache
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfo.cs
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\appsettings.Development.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\appsettings.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.exe
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.deps.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.runtimeconfig.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.pdb
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Azure.Core.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Humanizer.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonReviewApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\scopedcss\bundle\PokemonReviewApp.styles.css
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CopyComplete
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\refint\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.pdb
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.genruntimeconfig.cache
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.dll
+D:\upskilling, learning and CV projects\API project\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\appsettings.Development.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\appsettings.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.exe
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.deps.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.runtimeconfig.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.pdb
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Azure.Core.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Humanizer.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.AssemblyReference.cache
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfoInputs.cache
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfo.cs
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonReviewApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\scopedcss\bundle\PokemonReviewApp.styles.css
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CopyComplete
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\refint\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.pdb
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.genruntimeconfig.cache
+D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\appsettings.Development.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\appsettings.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.exe
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.deps.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.runtimeconfig.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.pdb
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Azure.Core.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Azure.Identity.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Humanizer.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.CodeDom.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Text.Json.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.AssemblyReference.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfoInputs.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfo.cs
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonReviewApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PokemonReviewApp.props
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.pack.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.build.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets.development.json
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\scopedcss\bundle\PokemonReviewApp.styles.css
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CopyComplete
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\refint\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.pdb
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.genruntimeconfig.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
