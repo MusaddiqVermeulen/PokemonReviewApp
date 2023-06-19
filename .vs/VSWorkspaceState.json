@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Helper"
+    "\\Dto",
+    "\\Helper",
+    "\\Repository"
   ],
-  "SelectedNode": "\\Seed.cs",
+  "SelectedNode": "\\PokemonReviewApp.sln",
   "PreviewInSolutionExplorer": false
 }

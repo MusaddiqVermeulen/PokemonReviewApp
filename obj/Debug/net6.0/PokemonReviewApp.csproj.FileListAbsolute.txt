@@ -176,6 +176,13 @@ D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\n
 D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.pdb
 D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.genruntimeconfig.cache
 D:\upskilling, learning and CV projects\API_Project\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.AssemblyReference.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfoInputs.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfo.cs
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
+D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
 D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\appsettings.Development.json
 D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\appsettings.json
 D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\PokemonReviewApp.exe
@@ -244,13 +251,6 @@ D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtim
 D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 D:\upskilling, learning and CV projects\PokemonReviewApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.AssemblyReference.cache
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.GeneratedMSBuildEditorConfig.editorconfig
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfoInputs.cache
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.AssemblyInfo.cs
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.csproj.CoreCompileInputs.cache
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cs
-D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.MvcApplicationPartsAssemblyInfo.cache
 D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.PokemonReviewApp.Microsoft.AspNetCore.StaticWebAssets.props
 D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.build.PokemonReviewApp.props
 D:\upskilling, learning and CV projects\PokemonReviewApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PokemonReviewApp.props
