@@ -7,7 +7,7 @@ namespace PokemonReviewApp.Repository
     public class PokemonRepository : IPokemonRepository
     {
         private readonly DataContext _context;
-        public PokemonRepository(DataContext context) 
+        public PokemonRepository(DataContext context)
         {
             _context = context;
         }
@@ -29,7 +29,7 @@ namespace PokemonReviewApp.Repository
             if (review.Count() <= 0)
                 return 0;
 
-            return((decimal)review.Sum(r => r.Rating)/ review.Count());
+            return ((decimal)review.Sum(r => r.Rating) / review.Count());
         }
 
         public ICollection<Pokemon> GetPokemons()  // a ICollection can not be edited and only show
@@ -41,5 +41,6 @@ namespace PokemonReviewApp.Repository
         {
             return _context.Pokemon.Any(p => p.Id == pokeId);
         }
+
     }
 }
