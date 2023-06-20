@@ -1,10 +1,8 @@
 # API_Project
 Pokemon Review Application API
 
+The application allows you to Review and rate your favorite pokemon (in .NET Core Web API)
 
-what i used to test it:
-Swagger UI
-Visual Studio
 
 
 
