@@ -9,6 +9,7 @@ namespace PokemonReviewApp.Helper
         public MapperProfiles()
         {
             CreateMap<Pokemon, PokemonDto>();
+            CreateMap<PokemonDto, Pokemon>();
             CreateMap<Category, CategoryDto>();  // mapping from the Model to the Dto
             CreateMap<CategoryDto,Category>();   // mapping it from the Dto to the Model
             CreateMap<Country, CountryDto>();
@@ -16,7 +17,9 @@ namespace PokemonReviewApp.Helper
             CreateMap<Owner, OwnerDto>();
             CreateMap<OwnerDto, Owner>();
             CreateMap<Review, ReviewDto>();
+            CreateMap<ReviewDto, Review>();
             CreateMap<Reviewer, ReviewerDto>();
+            CreateMap<ReviewerDto, Reviewer>();
         }
     }
 }
