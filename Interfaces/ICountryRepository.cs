@@ -10,6 +10,7 @@ namespace PokemonReviewApp.Interfaces
         ICollection<Owner> GetOwnerFromACountry(int countryId);
         bool CountryExists(int Id);
         bool CreateCountry(Country country);  // creating our signatures(create methods)
+        bool UpdateCountry(Country country);  // updating and changing names
         bool Save();
     }
 }
