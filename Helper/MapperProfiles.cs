@@ -6,7 +6,7 @@ namespace PokemonReviewApp.Helper
 {
     public class MapperProfiles : Profile
     {
-        public MapperProfiles()
+        public MapperProfiles()                             // mapper
         {
             CreateMap<Pokemon, PokemonDto>();
             CreateMap<PokemonDto, Pokemon>();

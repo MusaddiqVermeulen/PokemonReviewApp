@@ -66,7 +66,7 @@ namespace PokemonReviewApp.Controllers
         [HttpPost]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
-        public IActionResult CreateCountry([FromBody] CountryDto countryCreate)  // FromBody takes in data from the body
+        public IActionResult CreateCountry([FromBody] CountryDto countryCreate)  // FromBody takes in data from the body...
         {
             if (countryCreate == null)
                 return BadRequest(ModelState);
