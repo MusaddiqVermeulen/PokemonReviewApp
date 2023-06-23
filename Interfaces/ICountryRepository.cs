@@ -11,6 +11,7 @@ namespace PokemonReviewApp.Interfaces
         bool CountryExists(int Id);
         bool CreateCountry(Country country);  // creating our signatures(create methods)
         bool UpdateCountry(Country country);  // updating and changing names
+        bool DeleteCountry(Country country);  // used for deleting
         bool Save();
     }
 }

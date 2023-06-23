@@ -10,6 +10,7 @@ namespace PokemonReviewApp.Interfaces
         bool CategoryExists(int id);    // we're not using it to return data, we're using it to check if something exists
         bool CreateCategory(Category category);  // creating our signatures(create methods)
         bool UpdateCategory(Category category); // updating 
+        bool DeleteCategory(Category category);  // used for deleting
         bool Save();
     }
 }
